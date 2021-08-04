@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\config",
-    "\\config\\_default"
+    "\\config\\_default",
+    "\\content\\home",
+    "\\content\\post",
+    "\\content\\post\\getting-started",
+    "\\content\\publication",
+    "\\content\\publication\\example"
   ],
   "SelectedNode": "\\config\\_default\\config.yaml",
   "PreviewInSolutionExplorer": false

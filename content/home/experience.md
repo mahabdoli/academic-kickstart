@@ -22,28 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Teaching Assistant
+    company: Amirkabir University of Technology (Tehran Polytechnic)
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: aut_logo
+    date_start: '2020-09-01'
+    date_end: '2021-02-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Teaching python programming and data science libraries
+        * Grading students assignments
+
+  - title: Head of Training and Documentation Committee
+    company: Alzahra University Industrial Engineering Student Council
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: alz_logo
+    date_start: '2015-08-01'
+    date_end: '2017-10-01'
+    description: |2-
+        Activities included:
+        
+        * Organized and directed Industrial Engineering Reading Club, 2016.
+        * Planned and organized the Industrial Engineering Convention at Amirkabir University of Technology, December 2016.
+        * Planned and organized Industrial engineering training courses and workshops,
+   
+   
+   
+
+        
+
 
 design:
   columns: '2'

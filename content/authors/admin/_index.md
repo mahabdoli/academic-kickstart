@@ -14,14 +14,14 @@ organizations:
   url: aut.ac.ir
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a data scientist, interested in various applications.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Artificial Intelligence
+- Representation Learning
 - Natural Languate Processing
 - Artificial Intelligence Explinability and Ethics
+- Recommender Systems
 
 # Education to show in About widget
 education:
@@ -40,19 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:m.abdoli@aut.ac.ir
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=F4mZejoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mahabdoli
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://ir.linkedin.com/in/mahsan-abdoli
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,6 +65,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a data scientist. 
+Hi, My name is Mahsan Abdoli. I am a Master's graduate from [Amirkabir University of Technology](https://aut.ac.ir/en) in Industrial Engineering, working under the supervision of [Dr. Mohammad Akbari](https://aut.ac.ir/cv/2046/Mohammad%20Akbari) and [Dr. Jamal Shahrabi](https://aut.ac.ir/cv/2233/JAMAL-SHAHRABI?slc_lang=en&&cv=2233&mod=scv). I have been mainly working on employing Multiple Classifier Systems and Representation Learning through Autoencoders to develop classification systems for credit scoring. Currently, I am working on Natural Language Processing, Recommender Systems, and the cross between them.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Apart from my research I enjoy playing the piano, and traveling. 
+
+
