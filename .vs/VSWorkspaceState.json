@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
+    "\\assets\\media",
     "\\config\\_default",
+    "\\content",
+    "\\content\\admin",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\home",
-    "\\content\\post",
-    "\\content\\post\\getting-started",
-    "\\content\\publication",
     "\\content\\publication\\example"
   ],
-  "SelectedNode": "\\config\\_default\\config.yaml",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -65,7 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-Hi, My name is Mahsan Abdoli. I am a Master's graduate from [Amirkabir University of Technology](https://aut.ac.ir/en) in Industrial Engineering, working under the supervision of [Dr. Mohammad Akbari](https://aut.ac.ir/cv/2046/Mohammad%20Akbari) and [Dr. Jamal Shahrabi](https://aut.ac.ir/cv/2233/JAMAL-SHAHRABI?slc_lang=en&&cv=2233&mod=scv). I have been mainly working on employing Multiple Classifier Systems and Representation Learning through Autoencoders to develop classification systems for credit scoring. Currently, I am working on Natural Language Processing, Recommender Systems, and the cross between them.  
+Hi, My name is Mahsan Abdoli. I am a Master's graduate from [Amirkabir University of Technology](https://aut.ac.ir/en) in Industrial Engineering, working under the supervision of [Dr. Mohammad Akbari](https://aut.ac.ir/cv/2046/Mohammad%20Akbari) and [Dr. Jamal Shahrabi](https://aut.ac.ir/cv/2233/JAMAL-SHAHRABI?slc_lang=en&&cv=2233&mod=scv). In my master's, my main focus was on employing Multiple Classifier Systems and Representation Learning through Autoencoders to develop classification systems for credit scoring. Currently, I am working on Natural Language Processing, Recommender Systems, and the cross between them.  
 
 Apart from my research I enjoy playing the piano, and traveling. 
 
